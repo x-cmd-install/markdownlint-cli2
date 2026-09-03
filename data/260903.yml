@@ -1,19 +1,21 @@
 about:
-  description: A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  description:
+  |
+    A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
   license: MIT
   homepage: 
   head: 55d5a6c
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-03T05:13:07Z
+  collectedAt: 2026-09-03T22:38:54Z
 timeline:
   created: 2020-07-03
   lastCommit: 2026-08-29
-  lastRelease: ?
+  lastRelease: 
 popularity:
   star: 912
   watcher: 8
-  fork: 81
+  fork: 82
   release: 0
   contributor: 17
   pullRequest: 61
@@ -22,7 +24,7 @@ language:
   JavaScript: 222394
   Dockerfile: 1632
   HTML: 832
-totalLine: 224858
+totalBytes: 224858
 recent:
   last30d:
     since: 2026-08-04
