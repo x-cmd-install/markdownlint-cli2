@@ -7,7 +7,7 @@ A fast, flexible, configuration-based command-line interface for linting Markdow
 - **Latest release**: `` (n/a)
 - **Last commit**: 2026-08-29
 - **License**: MIT
-- **Stars**: 912 · **Forks**: 82 · **Open issues**: 163 · **Contributors**: 17
+- **Stars**: 913 · **Forks**: 82 · **Open issues**: 163 · **Contributors**: 17
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/markdownlint-cli2> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T01:51:20Z._
+_Last regenerated: 2026-09-09T18:17:50Z._
