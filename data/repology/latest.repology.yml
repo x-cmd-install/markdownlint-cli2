@@ -1,0 +1,172 @@
+- repo: arch
+  subrepo: extra
+  srcname: markdownlint-cli2
+  binname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: 0.23.2-1
+  status: newest
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  licenses:
+    - MIT
+- repo: fedora_43
+  subrepo: updates
+  srcname: markdownlint-cli2
+  binnames:
+    - markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: 0.23.2-1.fc43
+  status: newest
+  summary: A command-line tool for linting Markdown/CommonMark files
+  licenses:
+    - BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND Python-2.0.1
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: markdownlint-cli2
+  binnames:
+    - markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: 0.23.2-1.fc44
+  status: newest
+  summary: A command-line tool for linting Markdown/CommonMark files
+  licenses:
+    - BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND Python-2.0.1
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: markdownlint-cli2
+  binnames:
+    - markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: 0.23.2-1.fc46
+  status: newest
+  summary: A command-line tool for linting Markdown/CommonMark files
+  licenses:
+    - BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND Python-2.0.1
+  categories:
+    - Unspecified
+- repo: homebrew
+  srcname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: null
+  status: newest
+  summary: Fast, flexible, config-based cli for linting Markdown/CommonMark files
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: markdownlint-cli2
+  binname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: 0.23.2-1
+  status: newest
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: markdownlint-cli2
+  binname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: 0.23.2-1
+  status: newest
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: markdownlint-cli2
+  binname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: 0.23.2-1
+  status: newest
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  maintainers:
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.14.0
+  origversion: null
+  status: outdated
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  maintainers:
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.17.2
+  origversion: null
+  status: outdated
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  maintainers:
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.18.1
+  origversion: null
+  status: outdated
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  maintainers:
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.21.0
+  origversion: null
+  status: outdated
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  maintainers:
+    - anthony@roussel.dev
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: null
+  status: newest
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  maintainers:
+    - anthony@roussel.dev
+    - nixpkgs@natsukium.com
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: markdownlint-cli2
+  binname: markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: 0.23.2-1
+  status: newest
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
+  licenses:
+    - MIT
