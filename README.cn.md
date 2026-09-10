@@ -1,46 +1,46 @@
 # markdownlint-cli2
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 
 ![markdownlint-cli2](https://repo.x-cmd.io/markdownlint-cli2.svg)
 
-## Install
+## 安装
 
 ```sh
 x install markdownlint-cli2
 ```
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/DavidAnson/markdownlint-cli2>
-- **License**: MIT
+- **上游仓库**: <https://github.com/DavidAnson/markdownlint-cli2>
+- **许可证**: MIT
 
-## Popularity
+## 流行度
 
-- **Stars**: 914 · **Forks**: 82 · **Open issues**: 163 · **Contributors**: 17
+- **Star**: 914 · **Fork**: 82 · **开放 issue**: 163 · **贡献者**: 17
 
-## Code size
+## 代码规模
 
-Total: **13,332** lines of code across **155** files in the top 5 languages.
+合计: **13,332** 行代码（覆盖前 5 种语言、共 **155** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Json | 7,310 | 0 | 2 | 33 |
 | JavaScript | 5,900 | 747 | 654 | 98 |
 | Yaml | 53 | 0 | 0 | 15 |
 | Toml | 32 | 0 | 5 | 8 |
 | Dockerfile | 19 | 8 | 6 | 1 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **5.4 / 10**
+总评分: **5.4 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T01:47:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T01:47:45Z._
