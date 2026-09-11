@@ -262,3 +262,4 @@ checks:
     reason: packaging workflow detected
     details:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/publish-container-image.yml:11'
+---
