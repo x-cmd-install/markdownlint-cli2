@@ -4,7 +4,7 @@
 
 A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 
-![markdownlint-cli2](https://repo.x-cmd.io/markdownlint-cli2.svg)
+[![x-cmd/install — markdownlint-cli2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/markdownlint-cli2.svg)](https://x-cmd.com/install/markdownlint-cli2)
 
 ## Install
 
@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 920 · **Forks**: 83 · **Open issues**: 165 · **Contributors**: 17
+- **Stars**: 922 · **Forks**: 83 · **Open issues**: 165 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -51,12 +51,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 21 | 0 | 0 | 2 | 8 |
-| last60d | 2026-07-20 | 0 | 52 | 0 | 2 | 2 | 48 |
-| 90d | 2026-06-20 | 0 | 74 | 0 | 6 | 2 | 93 |
-| last180d | 2026-03-22 | 0 | 108 | 0 | 12 | 2 | 156 |
-| 360d | 2025-09-23 | 0 | 210 | 0 | 26 | 3 | 331 |
-| last720d | 2024-09-28 | 0 | 417 | 0 | 52 | 3 | 615 |
+| 30d | 2026-08-21 | 0 | 20 | 0 | 0 | 2 | 1 |
+| last60d | 2026-07-22 | 0 | 50 | 0 | 2 | 2 | 33 |
+| 90d | 2026-06-22 | 0 | 72 | 0 | 5 | 2 | 77 |
+| last180d | 2026-03-24 | 0 | 107 | 0 | 12 | 2 | 153 |
+| 360d | 2025-09-25 | 0 | 209 | 0 | 26 | 3 | 326 |
+| last720d | 2024-09-30 | 0 | 417 | 0 | 52 | 3 | 615 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T01:52:31Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T02:00:14Z._

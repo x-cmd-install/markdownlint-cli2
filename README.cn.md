@@ -4,7 +4,7 @@
 
 A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 
-![markdownlint-cli2](https://repo.x-cmd.io/markdownlint-cli2.svg?lang=zh)
+[![x-cmd/install — markdownlint-cli2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/markdownlint-cli2.svg?lang=zh)](https://x-cmd.com/install/markdownlint-cli2)
 
 ## 安装
 
@@ -41,7 +41,7 @@ x install markdownlint-cli2
 
 ## 流行度
 
-- **Star**: 920 · **Fork**: 83 · **开放 issue**: 165 · **贡献者**: 17
+- **Star**: 922 · **Fork**: 83 · **开放 issue**: 165 · **贡献者**: 17
 
 ## 累计统计
 
@@ -51,12 +51,12 @@ x install markdownlint-cli2
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 21 | 0 | 0 | 2 | 8 |
-| last60d | 2026-07-20 | 0 | 52 | 0 | 2 | 2 | 48 |
-| 90d | 2026-06-20 | 0 | 74 | 0 | 6 | 2 | 93 |
-| last180d | 2026-03-22 | 0 | 108 | 0 | 12 | 2 | 156 |
-| 360d | 2025-09-23 | 0 | 210 | 0 | 26 | 3 | 331 |
-| last720d | 2024-09-28 | 0 | 417 | 0 | 52 | 3 | 615 |
+| 30d | 2026-08-21 | 0 | 20 | 0 | 0 | 2 | 1 |
+| last60d | 2026-07-22 | 0 | 50 | 0 | 2 | 2 | 33 |
+| 90d | 2026-06-22 | 0 | 72 | 0 | 5 | 2 | 77 |
+| last180d | 2026-03-24 | 0 | 107 | 0 | 12 | 2 | 153 |
+| 360d | 2025-09-25 | 0 | 209 | 0 | 26 | 3 | 326 |
+| last720d | 2024-09-30 | 0 | 417 | 0 | 52 | 3 | 615 |
 
 ## 改进这些数据
 
@@ -67,4 +67,4 @@ markdownlint-cli2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T01:52:31Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T02:00:15Z._
