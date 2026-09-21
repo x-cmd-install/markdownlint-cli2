@@ -14,12 +14,12 @@ x install markdownlint-cli2
 
 ## Code insight
 
-Total: **13,332** lines of code across **155** files in the top 5 languages.
+Total: **13,262** lines of code across **154** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 7,310 | 0 | 2 | 33 |
-| JavaScript | 5,900 | 747 | 654 | 98 |
+| JavaScript | 5,830 | 754 | 651 | 97 |
 | Yaml | 53 | 0 | 0 | 15 |
 | Toml | 32 | 0 | 5 | 8 |
 | Dockerfile | 19 | 8 | 6 | 1 |
@@ -45,18 +45,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 698 · **Open PRs**: 0 · **Closed issues**: 162 · **Open issues**: 3 · **Commits**: 1379
+- **Releases**: 0 · **Merged PRs**: 698 · **Open PRs**: 0 · **Closed issues**: 163 · **Open issues**: 2 · **Commits**: 1403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 20 | 0 | 0 | 2 | 1 |
-| last60d | 2026-07-22 | 0 | 50 | 0 | 2 | 2 | 33 |
-| 90d | 2026-06-22 | 0 | 72 | 0 | 5 | 2 | 77 |
-| last180d | 2026-03-24 | 0 | 107 | 0 | 12 | 2 | 153 |
-| 360d | 2025-09-25 | 0 | 209 | 0 | 26 | 3 | 326 |
-| last720d | 2024-09-30 | 0 | 417 | 0 | 52 | 3 | 615 |
+| 30d | 2026-08-22 | 0 | 20 | 0 | 1 | 1 | 25 |
+| last60d | 2026-07-23 | 0 | 49 | 0 | 3 | 1 | 57 |
+| 90d | 2026-06-23 | 0 | 71 | 0 | 6 | 1 | 101 |
+| last180d | 2026-03-25 | 0 | 107 | 0 | 13 | 1 | 177 |
+| 360d | 2025-09-26 | 0 | 208 | 0 | 27 | 2 | 350 |
+| last720d | 2024-10-01 | 0 | 416 | 0 | 52 | 2 | 639 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T02:00:14Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T02:01:31Z._
