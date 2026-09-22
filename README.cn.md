@@ -30,7 +30,7 @@ x install markdownlint-cli2
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -41,22 +41,22 @@ x install markdownlint-cli2
 
 ## 流行度
 
-- **Star**: 922 · **Fork**: 83 · **开放 issue**: 165 · **贡献者**: 17
+- **Star**: 924 · **Fork**: 83 · **开放 issue**: 165 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 698 · **开放 PR**: 0 · **已关闭 issue**: 163 · **开放 issue**: 2 · **提交数**: 1403
+- **发布数**: 0 · **已合并 PR**: 700 · **开放 PR**: 0 · **已关闭 issue**: 163 · **开放 issue**: 2 · **提交数**: 1403
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 20 | 0 | 1 | 1 | 25 |
-| last60d | 2026-07-23 | 0 | 49 | 0 | 3 | 1 | 57 |
-| 90d | 2026-06-23 | 0 | 71 | 0 | 6 | 1 | 101 |
-| last180d | 2026-03-25 | 0 | 107 | 0 | 13 | 1 | 177 |
-| 360d | 2025-09-26 | 0 | 208 | 0 | 27 | 2 | 350 |
-| last720d | 2024-10-01 | 0 | 416 | 0 | 52 | 2 | 639 |
+| 30d | 2026-08-23 | 0 | 22 | 0 | 1 | 1 | 25 |
+| last60d | 2026-07-24 | 0 | 50 | 0 | 3 | 1 | 57 |
+| 90d | 2026-06-24 | 0 | 72 | 0 | 6 | 1 | 101 |
+| last180d | 2026-03-26 | 0 | 108 | 0 | 13 | 1 | 177 |
+| 360d | 2025-09-27 | 0 | 210 | 0 | 27 | 2 | 350 |
+| last720d | 2024-10-02 | 0 | 418 | 0 | 52 | 2 | 638 |
 
 ## 改进这些数据
 
@@ -67,4 +67,4 @@ markdownlint-cli2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T02:01:31Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T02:07:55Z._
