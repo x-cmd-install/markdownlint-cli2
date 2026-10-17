@@ -45,18 +45,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 718 · **Open PRs**: 3 · **Closed issues**: 164 · **Open issues**: 3 · **Commits**: 1403
+- **Releases**: 0 · **Merged PRs**: 721 · **Open PRs**: 0 · **Closed issues**: 164 · **Open issues**: 3 · **Commits**: 1403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 20 | 3 | 1 | 1 | 0 |
-| last60d | 2026-08-17 | 0 | 45 | 3 | 2 | 2 | 0 |
-| 90d | 2026-07-18 | 0 | 73 | 3 | 4 | 2 | 0 |
-| last180d | 2026-04-19 | 0 | 119 | 3 | 11 | 2 | 0 |
-| 360d | 2025-10-21 | 0 | 203 | 3 | 27 | 3 | 0 |
-| last720d | 2024-10-26 | 0 | 424 | 3 | 50 | 3 | 624 |
+| 30d | 2026-09-17 | 0 | 23 | 0 | 1 | 1 | 3 |
+| last60d | 2026-08-18 | 0 | 45 | 0 | 2 | 2 | 33 |
+| 90d | 2026-07-19 | 0 | 76 | 0 | 4 | 2 | 75 |
+| last180d | 2026-04-20 | 0 | 121 | 0 | 11 | 2 | 167 |
+| 360d | 2025-10-22 | 0 | 206 | 0 | 27 | 3 | 324 |
+| last720d | 2024-10-27 | 0 | 427 | 0 | 50 | 3 | 624 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T01:56:50Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T01:51:24Z._
