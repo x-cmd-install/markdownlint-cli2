@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 957 · **Forks**: 83 · **Open issues**: 167 · **Contributors**: 17
+- **Stars**: 959 · **Forks**: 83 · **Open issues**: 167 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -51,20 +51,20 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 29 | 0 | 1 | 0 | 35 |
-| last60d | 2026-08-26 | 0 | 51 | 0 | 4 | 0 | 68 |
-| 90d | 2026-07-27 | 0 | 79 | 0 | 4 | 0 | 103 |
-| last180d | 2026-04-28 | 0 | 131 | 0 | 13 | 0 | 208 |
-| 360d | 2025-10-30 | 0 | 212 | 0 | 29 | 1 | 358 |
-| last720d | 2024-11-04 | 0 | 430 | 0 | 52 | 1 | 655 |
+| 30d | 2026-09-26 | 0 | 29 | 0 | 1 | 0 | 26 |
+| last60d | 2026-08-27 | 0 | 51 | 0 | 4 | 0 | 64 |
+| 90d | 2026-07-28 | 0 | 78 | 0 | 4 | 0 | 99 |
+| last180d | 2026-04-29 | 0 | 131 | 0 | 13 | 0 | 207 |
+| 360d | 2025-10-31 | 0 | 212 | 0 | 29 | 1 | 348 |
+| last720d | 2024-11-05 | 0 | 430 | 0 | 52 | 1 | 653 |
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **2** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **3** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.23.3` | ⚠️ outdated |
+| Arch | `0.24.0` | ✅ latest |
 | Homebrew | `0.24.0` | ✅ latest |
 | Fedora rawhide | `0.23.3` | ⚠️ outdated |
 | Nix unstable | `0.23.3` | ⚠️ outdated |
@@ -78,4 +78,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T02:01:16Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T02:02:36Z._

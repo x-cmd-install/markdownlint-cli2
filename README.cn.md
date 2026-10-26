@@ -41,7 +41,7 @@ x install markdownlint-cli2
 
 ## 流行度
 
-- **Star**: 957 · **Fork**: 83 · **开放 issue**: 167 · **贡献者**: 17
+- **Star**: 959 · **Fork**: 83 · **开放 issue**: 167 · **贡献者**: 17
 
 ## 累计统计
 
@@ -51,20 +51,20 @@ x install markdownlint-cli2
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 29 | 0 | 1 | 0 | 35 |
-| last60d | 2026-08-26 | 0 | 51 | 0 | 4 | 0 | 68 |
-| 90d | 2026-07-27 | 0 | 79 | 0 | 4 | 0 | 103 |
-| last180d | 2026-04-28 | 0 | 131 | 0 | 13 | 0 | 208 |
-| 360d | 2025-10-30 | 0 | 212 | 0 | 29 | 1 | 358 |
-| last720d | 2024-11-04 | 0 | 430 | 0 | 52 | 1 | 655 |
+| 30d | 2026-09-26 | 0 | 29 | 0 | 1 | 0 | 26 |
+| last60d | 2026-08-27 | 0 | 51 | 0 | 4 | 0 | 64 |
+| 90d | 2026-07-28 | 0 | 78 | 0 | 4 | 0 | 99 |
+| last180d | 2026-04-29 | 0 | 131 | 0 | 13 | 0 | 207 |
+| 360d | 2025-10-31 | 0 | 212 | 0 | 29 | 1 | 348 |
+| last720d | 2024-11-05 | 0 | 430 | 0 | 52 | 1 | 653 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/markdownlint-cli2) 上共有 **16** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/markdownlint-cli2) 上共有 **15** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `0.23.3` | ⚠️ outdated |
+| Arch | `0.24.0` | ✅ latest |
 | Homebrew | `0.24.0` | ✅ latest |
 | Fedora rawhide | `0.23.3` | ⚠️ outdated |
 | Nix unstable | `0.23.3` | ⚠️ outdated |
@@ -78,4 +78,4 @@ markdownlint-cli2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T02:01:17Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T02:02:37Z._
