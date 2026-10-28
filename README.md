@@ -30,7 +30,7 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 960 · **Forks**: 83 · **Open issues**: 167 · **Contributors**: 17
+- **Stars**: 963 · **Forks**: 83 · **Open issues**: 167 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 737 · **Open PRs**: 0 · **Closed issues**: 166 · **Open issues**: 1 · **Commits**: 1446
+- **Releases**: 0 · **Merged PRs**: 738 · **Open PRs**: 0 · **Closed issues**: 166 · **Open issues**: 1 · **Commits**: 1446
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 33 | 0 | 1 | 0 | 26 |
-| last60d | 2026-08-28 | 0 | 54 | 0 | 4 | 0 | 64 |
-| 90d | 2026-07-29 | 0 | 82 | 0 | 4 | 0 | 99 |
-| last180d | 2026-04-30 | 0 | 135 | 0 | 13 | 0 | 207 |
-| 360d | 2025-11-01 | 0 | 216 | 0 | 29 | 1 | 348 |
-| last720d | 2024-11-06 | 0 | 434 | 0 | 52 | 1 | 653 |
+| 30d | 2026-09-28 | 0 | 31 | 0 | 1 | 0 | 26 |
+| last60d | 2026-08-29 | 0 | 55 | 0 | 4 | 0 | 64 |
+| 90d | 2026-07-30 | 0 | 82 | 0 | 4 | 0 | 99 |
+| last180d | 2026-05-01 | 0 | 135 | 0 | 13 | 0 | 207 |
+| 360d | 2025-11-02 | 0 | 217 | 0 | 29 | 1 | 348 |
+| last720d | 2024-11-07 | 0 | 434 | 0 | 52 | 1 | 653 |
 
 ## Distribution status
 
@@ -78,4 +78,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T02:39:49Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T02:48:56Z._
