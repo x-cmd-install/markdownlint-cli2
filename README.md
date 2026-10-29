@@ -41,32 +41,32 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 963 · **Forks**: 83 · **Open issues**: 167 · **Contributors**: 17
+- **Stars**: 965 · **Forks**: 83 · **Open issues**: 167 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 738 · **Open PRs**: 0 · **Closed issues**: 166 · **Open issues**: 1 · **Commits**: 1446
+- **Releases**: 0 · **Merged PRs**: 740 · **Open PRs**: 0 · **Closed issues**: 166 · **Open issues**: 1 · **Commits**: 1446
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 31 | 0 | 1 | 0 | 26 |
-| last60d | 2026-08-29 | 0 | 55 | 0 | 4 | 0 | 64 |
-| 90d | 2026-07-30 | 0 | 82 | 0 | 4 | 0 | 99 |
-| last180d | 2026-05-01 | 0 | 135 | 0 | 13 | 0 | 207 |
-| 360d | 2025-11-02 | 0 | 217 | 0 | 29 | 1 | 348 |
-| last720d | 2024-11-07 | 0 | 434 | 0 | 52 | 1 | 653 |
+| 30d | 2026-09-29 | 0 | 30 | 0 | 1 | 0 | 26 |
+| last60d | 2026-08-30 | 0 | 57 | 0 | 4 | 0 | 64 |
+| 90d | 2026-07-31 | 0 | 84 | 0 | 4 | 0 | 99 |
+| last180d | 2026-05-02 | 0 | 137 | 0 | 13 | 0 | 207 |
+| 360d | 2025-11-03 | 0 | 216 | 0 | 29 | 1 | 348 |
+| last720d | 2024-11-08 | 0 | 436 | 0 | 52 | 1 | 651 |
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **3** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **4** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.24.0` | ✅ latest |
 | Homebrew | `0.24.0` | ✅ latest |
-| Fedora rawhide | `0.23.3` | ⚠️ outdated |
+| Fedora rawhide | `0.24.0` | ✅ latest |
 | Nix unstable | `0.23.3` | ⚠️ outdated |
 
 ## Improve this data
@@ -78,4 +78,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T02:48:56Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T03:10:57Z._
