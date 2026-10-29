@@ -43,9 +43,9 @@
   binnames:
     - markdownlint-cli2
   visiblename: markdownlint-cli2
-  version: 0.23.3
-  origversion: 0.23.3-1.fc46
-  status: outdated
+  version: 0.24.0
+  origversion: 0.24.0-1.fc46
+  status: newest
   summary: A command-line tool for linting Markdown/CommonMark files
   licenses:
     - BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND Python-2.0.1
