@@ -150,9 +150,9 @@
 - repo: nix_unstable
   srcname: markdownlint-cli2
   visiblename: markdownlint-cli2
-  version: 0.23.3
+  version: 0.24.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
   maintainers:
     - anthony@roussel.dev

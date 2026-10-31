@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-30T03:14:07Z
+  collectedAt: 2026-10-31T02:58:41Z
 timeline:
   created: 2020-07-03
   lastCommit: 2026-10-21
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 966
+  star: 967
   watcher: 8
   fork: 83
   release: 0
   contributor: 17
-  pullRequest: 805
+  pullRequest: 806
   issue: 167
 language:
   JavaScript: 222166
@@ -29,63 +29,63 @@ language:
 totalBytes: 224630
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
-    mergedPR: 31
+    mergedPR: 32
     openPR: 0
     closedIssue: 1
     openIssue: 0
     commit: 26
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
-    mergedPR: 56
+    mergedPR: 57
     openPR: 0
     closedIssue: 4
     openIssue: 0
     commit: 64
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
-    mergedPR: 85
+    mergedPR: 86
     openPR: 0
     closedIssue: 4
     openIssue: 0
     commit: 99
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
-    mergedPR: 138
+    mergedPR: 139
     openPR: 0
     closedIssue: 13
     openIssue: 0
     commit: 207
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 0
-    mergedPR: 215
+    mergedPR: 216
     openPR: 0
     closedIssue: 29
     openIssue: 1
     commit: 348
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 0
-    mergedPR: 437
+    mergedPR: 438
     openPR: 0
     closedIssue: 52
     openIssue: 1
-    commit: 650
+    commit: 645
 total:
   release: 0
-  mergedPR: 741
+  mergedPR: 742
   openPR: 0
   closedIssue: 166
   openIssue: 1
   commit: 1446
 ---
 path: /home/runner/.x-repo/github.com/DavidAnson/markdownlint-cli2
-collectedAt: 2026-10-30T03:14:08Z
+collectedAt: 2026-10-31T02:58:42Z
 loc:
   Json:
     code: 7318
