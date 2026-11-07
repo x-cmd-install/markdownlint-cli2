@@ -63,10 +63,10 @@
   srcname: markdownlint-cli2
   binname: markdownlint-cli2
   visiblename: markdownlint-cli2
-  version: 0.9.0
-  origversion: 0.9.0-1
+  version: 0.23.2
+  origversion: 0.23.2-1
   status: outdated
-  summary: MarkdownLint Command Line Interface
+  summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
   licenses:
     - MIT
 - repo: manjaro_testing
@@ -74,9 +74,9 @@
   srcname: markdownlint-cli2
   binname: markdownlint-cli2
   visiblename: markdownlint-cli2
-  version: 0.10.0
-  origversion: 0.10.0-2
-  status: outdated
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: newest
   summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
   licenses:
     - MIT
@@ -85,9 +85,9 @@
   srcname: markdownlint-cli2
   binname: markdownlint-cli2
   visiblename: markdownlint-cli2
-  version: 0.23.3
-  origversion: 0.23.3-1
-  status: outdated
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: newest
   summary: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
   licenses:
     - MIT
