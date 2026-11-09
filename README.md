@@ -51,12 +51,23 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 32 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-09 | 0 | 54 | 0 | 4 | 0 | 49 |
-| 90d | 2026-08-10 | 0 | 76 | 0 | 4 | 0 | 79 |
-| last180d | 2026-05-12 | 0 | 139 | 0 | 11 | 0 | 193 |
-| 360d | 2025-11-13 | 0 | 216 | 0 | 28 | 1 | 333 |
-| last720d | 2024-11-18 | 0 | 437 | 0 | 51 | 1 | 643 |
+| 30d | 2026-10-10 | 0 | 32 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-10 | 0 | 53 | 0 | 4 | 0 | 49 |
+| 90d | 2026-08-11 | 0 | 75 | 0 | 4 | 0 | 79 |
+| last180d | 2026-05-13 | 0 | 139 | 0 | 11 | 0 | 193 |
+| 360d | 2025-11-14 | 0 | 216 | 0 | 28 | 1 | 333 |
+| last720d | 2024-11-19 | 0 | 434 | 0 | 51 | 1 | 642 |
+
+## Distribution status
+
+Reported by **15** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **9** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.24.0` | ✅ latest |
+| Homebrew | `0.24.0` | ✅ latest |
+| Fedora rawhide | `0.24.0` | ✅ latest |
+| Nix unstable | `0.24.0` | ✅ latest |
 
 ## Improve this data
 
@@ -67,4 +78,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T02:58:47Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T03:20:39Z._
