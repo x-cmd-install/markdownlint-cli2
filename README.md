@@ -19,7 +19,7 @@ Total: **13,266** lines of code across **154** files in the top 5 languages.
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 7,318 | 0 | 2 | 33 |
-| JavaScript | 5,826 | 765 | 651 | 97 |
+| JavaScript | 5,826 | 766 | 651 | 97 |
 | Yaml | 53 | 0 | 0 | 15 |
 | Toml | 32 | 0 | 5 | 8 |
 | Dockerfile | 19 | 8 | 6 | 1 |
@@ -45,18 +45,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 746 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 1 · **Commits**: 1446
+- **Releases**: 0 · **Merged PRs**: 746 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 1 · **Commits**: 1473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 28 | 0 | 1 | 0 | 11 |
-| last60d | 2026-09-13 | 0 | 53 | 0 | 4 | 0 | 49 |
-| 90d | 2026-08-14 | 0 | 74 | 0 | 5 | 0 | 79 |
-| last180d | 2026-05-16 | 0 | 139 | 0 | 12 | 0 | 193 |
-| 360d | 2025-11-17 | 0 | 217 | 0 | 29 | 1 | 333 |
-| last720d | 2024-11-22 | 0 | 434 | 0 | 52 | 1 | 637 |
+| 30d | 2026-10-14 | 0 | 26 | 0 | 1 | 0 | 38 |
+| last60d | 2026-09-14 | 0 | 50 | 0 | 4 | 0 | 76 |
+| 90d | 2026-08-15 | 0 | 74 | 0 | 5 | 0 | 106 |
+| last180d | 2026-05-17 | 0 | 139 | 0 | 12 | 0 | 220 |
+| 360d | 2025-11-18 | 0 | 216 | 0 | 28 | 1 | 360 |
+| last720d | 2024-11-23 | 0 | 434 | 0 | 52 | 1 | 663 |
 
 ## Distribution status
 
@@ -78,4 +78,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T04:38:36Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T03:51:22Z._
