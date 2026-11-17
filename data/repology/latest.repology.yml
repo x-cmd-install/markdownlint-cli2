@@ -48,6 +48,34 @@
     - BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND Python-2.0.1
   categories:
     - Unspecified
+- repo: fedora_45
+  subrepo: updates
+  srcname: markdownlint-cli2
+  binnames:
+    - markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.24.0
+  origversion: 0.24.0-1.fc45
+  status: outdated
+  summary: A command-line tool for linting Markdown/CommonMark files
+  licenses:
+    - BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND Python-2.0.1
+  categories:
+    - Unspecified
+- repo: fedora_45
+  subrepo: release
+  srcname: markdownlint-cli2
+  binnames:
+    - markdownlint-cli2
+  visiblename: markdownlint-cli2
+  version: 0.23.2
+  origversion: 0.23.2-1.fc45
+  status: legacy
+  summary: A command-line tool for linting Markdown/CommonMark files
+  licenses:
+    - BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND Python-2.0.1
+  categories:
+    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: markdownlint-cli2
