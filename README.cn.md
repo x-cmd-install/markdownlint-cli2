@@ -30,7 +30,7 @@ x install markdownlint-cli2
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -41,26 +41,26 @@ x install markdownlint-cli2
 
 ## 流行度
 
-- **Star**: 978 · **Fork**: 85 · **开放 issue**: 169 · **贡献者**: 17
+- **Star**: 980 · **Fork**: 85 · **开放 issue**: 169 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 746 · **开放 PR**: 0 · **已关闭 issue**: 167 · **开放 issue**: 2 · **提交数**: 1473
+- **发布数**: 0 · **已合并 PR**: 748 · **开放 PR**: 0 · **已关闭 issue**: 167 · **开放 issue**: 2 · **提交数**: 1473
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 25 | 0 | 1 | 1 | 25 |
-| last60d | 2026-09-17 | 0 | 48 | 0 | 3 | 1 | 64 |
-| 90d | 2026-08-18 | 0 | 70 | 0 | 5 | 1 | 100 |
-| last180d | 2026-05-20 | 0 | 137 | 0 | 12 | 1 | 214 |
-| 360d | 2025-11-21 | 0 | 212 | 0 | 27 | 2 | 352 |
-| last720d | 2024-11-26 | 0 | 433 | 0 | 52 | 2 | 663 |
+| 30d | 2026-10-18 | 0 | 27 | 0 | 1 | 1 | 25 |
+| last60d | 2026-09-18 | 0 | 50 | 0 | 3 | 1 | 64 |
+| 90d | 2026-08-19 | 0 | 71 | 0 | 5 | 1 | 100 |
+| last180d | 2026-05-21 | 0 | 139 | 0 | 12 | 1 | 214 |
+| 360d | 2025-11-22 | 0 | 214 | 0 | 27 | 2 | 352 |
+| last720d | 2024-11-27 | 0 | 435 | 0 | 52 | 2 | 662 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/markdownlint-cli2) 上共有 **16** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/markdownlint-cli2) 上共有 **18** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -78,4 +78,4 @@ markdownlint-cli2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T03:29:57Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T05:29:02Z._

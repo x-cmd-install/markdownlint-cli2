@@ -30,7 +30,7 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -41,26 +41,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 978 · **Forks**: 85 · **Open issues**: 169 · **Contributors**: 17
+- **Stars**: 980 · **Forks**: 85 · **Open issues**: 169 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 746 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 2 · **Commits**: 1473
+- **Releases**: 0 · **Merged PRs**: 748 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 2 · **Commits**: 1473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 25 | 0 | 1 | 1 | 25 |
-| last60d | 2026-09-17 | 0 | 48 | 0 | 3 | 1 | 64 |
-| 90d | 2026-08-18 | 0 | 70 | 0 | 5 | 1 | 100 |
-| last180d | 2026-05-20 | 0 | 137 | 0 | 12 | 1 | 214 |
-| 360d | 2025-11-21 | 0 | 212 | 0 | 27 | 2 | 352 |
-| last720d | 2024-11-26 | 0 | 433 | 0 | 52 | 2 | 663 |
+| 30d | 2026-10-18 | 0 | 27 | 0 | 1 | 1 | 25 |
+| last60d | 2026-09-18 | 0 | 50 | 0 | 3 | 1 | 64 |
+| 90d | 2026-08-19 | 0 | 71 | 0 | 5 | 1 | 100 |
+| last180d | 2026-05-21 | 0 | 139 | 0 | 12 | 1 | 214 |
+| 360d | 2025-11-22 | 0 | 214 | 0 | 27 | 2 | 352 |
+| last720d | 2024-11-27 | 0 | 435 | 0 | 52 | 2 | 662 |
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **3** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **3** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -78,4 +78,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T03:29:57Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T05:29:01Z._
