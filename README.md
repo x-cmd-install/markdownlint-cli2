@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 980 · **Forks**: 85 · **Open issues**: 169 · **Contributors**: 17
+- **Stars**: 983 · **Forks**: 85 · **Open issues**: 168 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 748 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 2 · **Commits**: 1473
+- **Releases**: 0 · **Merged PRs**: 750 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 1 · **Commits**: 1473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 27 | 0 | 1 | 1 | 25 |
-| last60d | 2026-09-18 | 0 | 50 | 0 | 3 | 1 | 64 |
-| 90d | 2026-08-19 | 0 | 71 | 0 | 5 | 1 | 100 |
-| last180d | 2026-05-21 | 0 | 139 | 0 | 12 | 1 | 214 |
-| 360d | 2025-11-22 | 0 | 214 | 0 | 27 | 2 | 352 |
-| last720d | 2024-11-27 | 0 | 435 | 0 | 52 | 2 | 662 |
+| 30d | 2026-10-19 | 0 | 24 | 0 | 1 | 0 | 25 |
+| last60d | 2026-09-19 | 0 | 52 | 0 | 3 | 0 | 64 |
+| 90d | 2026-08-20 | 0 | 73 | 0 | 5 | 0 | 100 |
+| last180d | 2026-05-22 | 0 | 141 | 0 | 12 | 0 | 214 |
+| 360d | 2025-11-23 | 0 | 216 | 0 | 27 | 1 | 352 |
+| last720d | 2024-11-28 | 0 | 437 | 0 | 52 | 1 | 662 |
 
 ## Distribution status
 
@@ -78,4 +78,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T05:29:01Z._
+_Snapshot: `data/card/261118.yml` · 2026-11-18T04:56:03Z._
