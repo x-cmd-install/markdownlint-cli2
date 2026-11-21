@@ -14,12 +14,12 @@ x install markdownlint-cli2
 
 ## Code insight
 
-Total: **13,266** lines of code across **154** files in the top 5 languages.
+Total: **13,287** lines of code across **155** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 7,318 | 0 | 2 | 33 |
-| JavaScript | 5,826 | 766 | 651 | 97 |
+| JavaScript | 5,847 | 768 | 655 | 98 |
 | Yaml | 53 | 0 | 0 | 15 |
 | Toml | 32 | 0 | 5 | 8 |
 | Dockerfile | 19 | 8 | 6 | 1 |
@@ -41,32 +41,32 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 985 · **Forks**: 86 · **Open issues**: 168 · **Contributors**: 17
+- **Stars**: 986 · **Forks**: 86 · **Open issues**: 168 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 750 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 1 · **Commits**: 1473
+- **Releases**: 0 · **Merged PRs**: 750 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 1 · **Commits**: 1481
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 22 | 0 | 1 | 0 | 25 |
-| last60d | 2026-09-21 | 0 | 50 | 0 | 3 | 0 | 64 |
-| 90d | 2026-08-22 | 0 | 72 | 0 | 5 | 0 | 100 |
-| last180d | 2026-05-24 | 0 | 141 | 0 | 12 | 0 | 214 |
-| 360d | 2025-11-25 | 0 | 214 | 0 | 26 | 1 | 352 |
-| last720d | 2024-11-30 | 0 | 437 | 0 | 52 | 1 | 662 |
+| 30d | 2026-10-22 | 0 | 21 | 0 | 1 | 0 | 33 |
+| last60d | 2026-09-22 | 0 | 49 | 0 | 2 | 0 | 72 |
+| 90d | 2026-08-23 | 0 | 72 | 0 | 5 | 0 | 108 |
+| last180d | 2026-05-25 | 0 | 140 | 0 | 12 | 0 | 222 |
+| 360d | 2025-11-26 | 0 | 214 | 0 | 26 | 1 | 360 |
+| last720d | 2024-12-01 | 0 | 437 | 0 | 52 | 1 | 670 |
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **4** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **1** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.24.1` | ✅ latest |
-| Homebrew | `0.24.1` | ✅ latest |
-| Fedora rawhide | `0.24.1` | ✅ latest |
+| Arch | `0.24.1` | ⚠️ outdated |
+| Homebrew | `0.24.1` | ⚠️ outdated |
+| Fedora rawhide | `0.24.1` | ⚠️ outdated |
 | Nix unstable | `0.24.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -78,4 +78,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T04:40:24Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T04:32:39Z._
