@@ -45,22 +45,22 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 750 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 1 · **Commits**: 1481
+- **Releases**: 0 · **Merged PRs**: 751 · **Open PRs**: 0 · **Closed issues**: 167 · **Open issues**: 1 · **Commits**: 1481
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 17 | 0 | 1 | 0 | 17 |
-| last60d | 2026-09-24 | 0 | 47 | 0 | 2 | 0 | 61 |
-| 90d | 2026-08-25 | 0 | 68 | 0 | 5 | 0 | 101 |
-| last180d | 2026-05-27 | 0 | 140 | 0 | 11 | 0 | 222 |
-| 360d | 2025-11-28 | 0 | 214 | 0 | 26 | 1 | 359 |
-| last720d | 2024-12-03 | 0 | 435 | 0 | 52 | 1 | 668 |
+| 30d | 2026-10-25 | 0 | 18 | 0 | 1 | 0 | 17 |
+| last60d | 2026-09-25 | 0 | 47 | 0 | 2 | 0 | 61 |
+| 90d | 2026-08-26 | 0 | 69 | 0 | 5 | 0 | 101 |
+| last180d | 2026-05-28 | 0 | 141 | 0 | 11 | 0 | 222 |
+| 360d | 2025-11-29 | 0 | 215 | 0 | 26 | 1 | 359 |
+| last720d | 2024-12-04 | 0 | 436 | 0 | 52 | 1 | 668 |
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **2** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/markdownlint-cli2). **3** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -78,4 +78,4 @@ Install metadata for markdownlint-cli2 lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T04:24:17Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T07:20:28Z._
